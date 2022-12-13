@@ -1,0 +1,40 @@
+body{
+    background: rgb(243, 183, 193) url('imagens/fundo.png');
+     font: 18px arial, helvetica, sans-serif;
+}
+
+#principal{
+width: 900px;
+}
+
+#menu{
+background: #c5c5b2;
+padding: 18px;
+}
+#conteudo{
+background: #e8e8d9;
+padding: 10;
+}
+
+a{
+color: #4b566a;
+text-decoration: none;
+font-weight:bold;
+padding: 20px;
+}
+.centralizar{
+text-align: center;
+}
+h1{
+color: #828271;
+font-family:cursive 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+#contato{
+text-align: left;
+}
+button{ 
+   cursor: pointer;
+   width: 7%;
+   border: 2px solid black;
+   border-radius: 70px;
+  }
