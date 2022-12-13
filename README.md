@@ -2,6 +2,8 @@
 
 Este projeto tem por finalidade a prática  da criação de página profissional para pequenas e medias empresas.
 
+### conheça o projeto: https://anna-bella-model.netlify.app/
+
 ## 🚀 Começando
 
 criei um portifolio para uma modelo ficticia chamada Anna Bella, no projeto temos um total de 4 páginas navegavéis entre sí.
